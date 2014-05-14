@@ -1,4 +1,4 @@
 PostgreSQLNotify
 ================
 
-PostgreSQL Worker with support for LISTEN/NOTIFY
+Omnis Studio PostgreSQL Worker with support for LISTEN/NOTIFY
